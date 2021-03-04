@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: randompassword-generator
+Version: 1.0
+Summary: A package that generates random passwords. 
+Home-page: https://github.com/shyamgopal01/randompassword_generator
+Author: Shyam Gopal , Venkateswar.S
+Author-email: shyamgopalit@gmail.com
+License: UNKNOWN
+Description: # randompassword_generator :
+        A PyPI package that can generate random passwords.
+        
+        # Installation :
+        Run the following to install:
+        
+        '''cmd
+        pip install randompassword_generator
+        '''
+        
+        # Team :
+        ## Contributor : Shyam Gopal
+        ## Mentor      : Venkateswar. S
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
